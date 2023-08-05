@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aijaz</h1>
-<h3 align="center">A Research Scholar @ IISc Bangalore, India.</h3>
-
+<h3 align="center">A Research Scholar from IISc Bangalore, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalaijaz&label=Profile%20views&color=0e75b6&style=flat" alt="digitalaijaz" /> </p>
 
 - 🔭 I’m currently working on **Cognition Modeling in Digital Humans**
+
+- 🌱 I’m currently learning **Python and OpenGl**
+
+- 💬 Ask me about **Non-linear Optimization and Computational Geometry**
+
+- 📫 How to reach me **aijaz@iisc.ac.in**
+
+- ⚡ Fun fact **I do card magic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
