@@ -1,8 +1,12 @@
-### Hi 👋 I'm Mohd Aijaz Siddiqui
+                                                           ### Hi 👋 I'm Mohd Aijaz Siddiqui
+                                                              Research Scholar from India
 
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social)](https://www.linkedin.com/in/eraijaz/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/digitalAijaz?style=social)](https://twitter.com/digitalAijaz)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-red?style=social)](https://www.instagram.com/digital_aijaz)
+**Connect with me:**
+
+* [<img src="https://www.freeiconspng.com/img/2026" width="15"> LinkedIn](https://www.linkedin.com/in/eraijaz/)
+* [<img src="https://www.freeiconspng.com/img/74" width="15"> Twitter](https://twitter.com/digitalAijaz)
+* [<img src="https://www.freeiconspng.com/img/957" width="15"> Instagram](https://www.instagram.com/digital_aijaz)
+
 
 ---
 
