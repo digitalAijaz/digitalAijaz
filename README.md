@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aijaz</h1>
-<h3 align="center">A Research Scholar from IISc Bangalore, India.</h3>
+<h3 align="center">A Research Scholar from Indian Institute of Science Bangalore, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalaijaz&label=Profile%20views&color=0e75b6&style=flat" alt="digitalaijaz" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digitalaijaz" alt="digitalaijaz" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/digitalaijaz" target="blank"><img src="https://img.shields.io/twitter/follow/digitalaijaz?logo=twitter&style=for-the-badge" alt="digitalaijaz" /></a> </p>
+
 - 🔭 I’m currently working on **Cognition Modeling in Digital Humans**
 
-- 🌱 I’m currently learning **Python and OpenGl**
+- 🌱 I’m currently learning **Python and OpenGL**
 
 - 💬 Ask me about **Non-linear Optimization and Computational Geometry**
 
@@ -17,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/digitalaijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="digitalaijaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eraijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eraijaz" height="30" width="40" /></a>
+<a href="https://fb.com/eraijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eraijaz" height="30" width="40" /></a>
 <a href="https://instagram.com/digital_aijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="digital_aijaz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aijazsiddiqui1721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aijazsiddiqui1721" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
